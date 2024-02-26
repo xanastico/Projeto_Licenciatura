@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 914e60a7ccb0e3e4cbb6c6b670f80a5f
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_Introdutorio.unity
+    guid: 203e7278d2e73f347895d920179bdc38
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_1a.unity
+    guid: 386fc19ce86300640be5513f30bcd026
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_1b.unity
+    guid: bfe980ea03785b24a99d25fdc8e91147
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_1c.unity
+    guid: 1f5d577e2bbd17b41952d25307d29548
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_2.unity
+    guid: 8624940bc5387604a9c9232f5712e91b
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_3.unity
+    guid: e49f23008b8874f4fbd3bb019473dabb
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_4.unity
+    guid: 862f9b322eb962b43914c1b19d59a044
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_5.unity
+    guid: 88c8cbfe8ba6e224c9a438c3f0dfff79
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_6.unity
+    guid: fdf0f235a551e184683c9494030f9646
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/E_nivel_7.unity
+    guid: 9ac831dbaa6f68445a41a4563004991f
+  - enabled: 1
+    path: Assets/Scenes/Fim.unity
+    guid: 27c4e6ed7937a7f4b8448034dccf919a
+  - enabled: 1
+    path: Assets/Scenes/EscolhaDoOlho.unity
+    guid: 32206452930aa1841b923e10d1b763db
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_Introdutorio.unity
+    guid: 8a0e6e2a513ddd44abb7987ea0f03c79
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_1.unity
+    guid: 7eca59868449b174fb92916cf8480a51
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_1a.unity
+    guid: d349063dbf4c07a4e9a604489da4b62b
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_1a_opacity-10.unity
+    guid: 5f90b231ad70abd4997f4218bfa7bdde
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_1b.unity
+    guid: 00f902eecc5f8d945928f754e73d77ef
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_1c.unity
+    guid: 95187b7cba96c2e498a909bd3039b3c5
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_2.unity
+    guid: 986026bc55f0ba34091e568f91594b8e
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_3.unity
+    guid: 253ce6ad23f780b4785a91e18655edc8
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_4.unity
+    guid: e700c6786c6ebc64f81c1a9845c1445f
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_5.unity
+    guid: 2fba35348d79ae14e8795d84dddb36c1
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_6.unity
+    guid: cf9c03d5d5bb87043a829258a8ca8cc5
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/D_nivel_7.unity
+    guid: 9a28231d1cf90804fa736bfc20255d5a
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_1_opacity-10.unity
+    guid: d1ab071f27388a841a210e29b1c54ea3
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_1b_opacity-10.unity
+    guid: 33d5a64c562d3e649843317ad8f925d0
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_1c_opacity-10.unity
+    guid: aa87708889d07da4099225685dba5f15
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_2_opacity-10.unity
+    guid: c7265cf2e3d161f46ae1c1119a74fdf6
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_3_opacity-10.unity
+    guid: 2a033cec3443d9645969368028039b55
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_4_opacity-10.unity
+    guid: cbeb03d6576eab04699327eb9122f88b
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_5_opacity-10.unity
+    guid: 122b3ad95579ad94d88e0f11d00b4eb1
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_6_opacity-10.unity
+    guid: 9796deae1080c42479d3cc036198ce69
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/D_nivel_7_opacity-10.unity
+    guid: bba008a868c738b418623bed2057d27e
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_1_MAX.unity
+    guid: d4d9b59297735eb4eb52420ce9163a85
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_1a_MAX.unity
+    guid: 9f10453cb764b404ca6d4ef51780d6f6
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_1b_MAX.unity
+    guid: ee1ad8ddb2d64fc48bcc56910af3e467
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_1c_MAX.unity
+    guid: c767d93ae7f567b4bb1383187ef14053
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_2_MAX.unity
+    guid: f739ff03879918f49ae32d1509e826cb
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_3_MAX.unity
+    guid: eee38749c9657324a8c01b9956c41ca6
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_4_MAX.unity
+    guid: 1357d5ef994eedd47b1b9a6f44c24490
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_5_MAX.unity
+    guid: 9a641faf9920130428b2497da1fa5d96
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_6_MAX.unity
+    guid: 22fb320dc2b20b5439eb2e6341d03b4a
+  - enabled: 1
+    path: Assets/Scenes/OlhoDireito/OlhoDireitoMenosOpacidade/OlhoDir_MaximoOpacidade/D_nivel_7_MAX.unity
+    guid: 7676ff74aaa77ec47b57999e095c0201
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_1_opacity-10.unity
+    guid: 741fde64127044c48a76388529841bd7
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_1a_opacity-10.unity
+    guid: 1bd94f3aec22f214e955b6810efa76f6
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_1b_opacity-10.unity
+    guid: 4ec07b6388a17604c8ebf216f22aa976
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_1c_opacity-10.unity
+    guid: 823df6438c50fe54ba7ddd0331948cd4
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_2_opacity-10.unity
+    guid: 0e479f765cf95a646854542f53ee651c
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_3_opacity-10.unity
+    guid: 80e86606f49d3b047845032737a11c48
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_4_opacity-10.unity
+    guid: b425ed008afed254d913593439245121
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_5_opacity-10.unity
+    guid: fdc8603b5a13d5c40a18ddffce1f1aa0
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_6_opacity-10.unity
+    guid: 19e96267e08ae8b4aaf8f0d0a8355eee
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/E_nivel_7_opacity-10.unity
+    guid: 3a60e17630c7599489843c0d4ae0e693
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_1_MAX.unity
+    guid: ee4ab90c4245ed54ea8fae223e4f71cc
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_1a_MAX.unity
+    guid: b8446b43c628d3240aa6e44cebedfdda
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_1b_MAX.unity
+    guid: bb80fd82918228340ae46d9ca07e8b5f
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_1c_MAX.unity
+    guid: f9b1c877b56092d409de525482eb788d
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_2_MAX.unity
+    guid: 594192319f599174da0ab260523399cb
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_3_MAX.unity
+    guid: 520d067d812896942af4c9291a48477b
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_4_MAX.unity
+    guid: d494a37de2230ae45a5d14a9c74c3311
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_5_MAX.unity
+    guid: 682666394d8ca154596eda5500e3a6e4
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_6_MAX.unity
+    guid: 577087be4ae014c449e2a36f8dc771d1
+  - enabled: 1
+    path: Assets/Scenes/OlhoEsquerdo/OlhoEsquerdoMenosOpcadidade/OlhoEsq_MaximoOpacidade/E_nivel_7_MAX.unity
+    guid: 81fc29c12a88b2742a7b357eb918260a
+  m_configObjects: {}
